@@ -29,8 +29,10 @@ const searching = () => {
     return (
 
         <div className="Viewer">
+        
 
 <div className='w-25 border rounded m-5 p-5 mt-5 bg-light'>
+    <h3 className="h3">NIC Tracker</h3>
             <FloatingLabel
                 controlId="floatingInput"
                 label="National ID"
