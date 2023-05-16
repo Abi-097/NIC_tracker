@@ -1,12 +1,10 @@
 import './App.css';
 import View from './Common/Pages/View';
 
- 
-  
 function App() {
-   return(
-    <View/>
-   )
+  return (
+        <View/>
+  );
 }
 
 export default App;

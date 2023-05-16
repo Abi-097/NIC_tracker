@@ -2,7 +2,7 @@ import {React} from "react";
 import { useState } from "react";
 import {Button, FloatingLabel, Form} from 'react-bootstrap';
 import lankaNIC from "lanka-nic";
-import './view.css'
+import './View.css'
 
 
 
